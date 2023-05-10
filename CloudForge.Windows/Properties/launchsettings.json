@@ -1,0 +1,10 @@
+{
+  "profiles": {
+	"CloudForge.Windows (Package)": {
+	  "commandName": "MsixPackage"
+	},
+	"CloudForge.Windows (Unpackaged)": {
+	  "commandName": "Project"
+	}
+  }
+}
